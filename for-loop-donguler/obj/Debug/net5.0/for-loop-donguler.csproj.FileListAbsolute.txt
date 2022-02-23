@@ -1,0 +1,16 @@
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\bin\Debug\net5.0\for-loop-donguler.exe
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\bin\Debug\net5.0\for-loop-donguler.deps.json
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\bin\Debug\net5.0\for-loop-donguler.runtimeconfig.json
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\bin\Debug\net5.0\for-loop-donguler.runtimeconfig.dev.json
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\bin\Debug\net5.0\for-loop-donguler.dll
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\bin\Debug\net5.0\for-loop-donguler.pdb
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.csproj.AssemblyReference.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.AssemblyInfoInputs.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.AssemblyInfo.cs
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.csproj.CoreCompileInputs.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.dll
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\refint\for-loop-donguler.dll
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.pdb
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\for-loop-donguler.genruntimeconfig.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\for-loop-donguler\obj\Debug\net5.0\ref\for-loop-donguler.dll
