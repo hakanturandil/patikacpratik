@@ -1,0 +1,16 @@
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\bin\Debug\net5.0\switch-case.exe
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\bin\Debug\net5.0\switch-case.deps.json
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.json
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\bin\Debug\net5.0\switch-case.runtimeconfig.dev.json
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\bin\Debug\net5.0\switch-case.dll
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\bin\Debug\net5.0\switch-case.pdb
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.csproj.AssemblyReference.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.AssemblyInfo.cs
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.dll
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\refint\switch-case.dll
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.pdb
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\switch-case.genruntimeconfig.cache
+C:\Users\Turan\Documents\Adavy\patikacpratik\switch-case\obj\Debug\net5.0\ref\switch-case.dll
